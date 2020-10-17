@@ -1,0 +1,2 @@
+3.Karena agar coding lebih konsisten dan lebih mudah jika terjadi Maintained
+4.Hapus trailing whitespaces,karena trailing whitespace tidak diperlukan malah dapat memperumit perbedaan dalam codingan kita
